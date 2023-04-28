@@ -1,8 +1,7 @@
 # Development
 
-This file describes steps for installing and/or using different parts of
-the MERN stack to develop this application locally. The end of the file
-describes the different technologies and frameworks used.
+This file describes steps for installing and developing the website locally.
+The end of the file describes the different technologies and frameworks used.
 
 ## Mac Installation of Node v18
 
@@ -41,12 +40,8 @@ Then, go to the **Loopback** URL, **not** the URL following `nodemon` output.
 Name | Description
 --- | ---
 Babel | A Javascript and Typescript transpiler that allows compatibility with older environments if language features are not supported natively. Babel also helps transpile JSX/TSX syntax and React components to browser-supported JavaScript.
-Express | Express(.js) is a server-side middleware framework that runs inside Node, supporting URL routing and handling HTTP requests and responses.
 Node | Node(.js) is a cross-platform server environment that supports   JavaScript outside of the browser.
-MongoDB | MongoDB is a NoSQL database program supporting JSON-like documents and schemas.
-Mongoose | Mongoose is a Object Data Modeling (ORM) library for MongoDB and Node that manages data and schemas, providing functionality like schema validation to enforce some structure in a MongoDB database.
 React | React(.js) is a JavaScript framework for building UI/UX interfaces via individual pieces called components.
-Swagger | Swagger is a set of tools used to simplified API documentation using the OpenAPI specification.
 Typescript | TypeScript is a superset of JavaScript that adds static typing.
 webpack | webpack is a module bundler for JavaScript that turns a JavaScript module into a static, self-contained package with all necessary dependent modules.
 
