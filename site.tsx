@@ -4,7 +4,7 @@ import { createRoot } from 'react-dom/client';
 /* Importing Components */
 import HelloWorld from './components/helloWorld/HelloWorld';
 
-class PhotoWars extends React.Component {
+class Site extends React.Component {
   render() {
     return (
       <React.StrictMode>
@@ -15,4 +15,4 @@ class PhotoWars extends React.Component {
 }
 
 const root = createRoot(document.getElementById('root') as HTMLElement);
-root.render(<PhotoWars />);
+root.render(<Site />);
