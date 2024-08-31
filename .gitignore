@@ -1,1 +1,9 @@
+.direnv/
+.next/
+.venv/
+
+.envrc
+
+dist/
 node_modules/
+out/
